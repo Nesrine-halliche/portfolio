@@ -1,6 +1,6 @@
 #--------------------------------#
-# PROJECT: MARIE M2 PDAC PROJECT #
-#        START: 2025/07/16       #
+#  #
+#          #
 Sys.setenv("R_REMOTES_NO_ERRORS_FROM_WARNINGS" = "true")
 workdir <- "C:/Users/PC PEO MAX/Videos/stage/PDAC"
 setwd(workdir)
